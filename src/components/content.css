@@ -1,0 +1,28 @@
+.texto-general{
+    font-family: 'Oswald', sans-serif; 
+}
+.titular{
+    /* font-family: 'Oswald', sans-serif; */
+    color:#825b44;
+    font-size:2.1em;
+    font-weight: 400;
+    padding: 0 0 15px 0;
+}
+.premios{
+    /* font-family: 'Oswald', sans-serif; */
+    font-weight: 300;
+    font-size:1.9em;
+}
+.puntos-verde{
+    /* font-family: 'Oswald', sans-serif; */
+    color:#a9d023;
+    font-weight: 500;
+}
+.descripcion{
+    /* font-family: 'Oswald', sans-serif; */
+    color:#818285;
+    font-weight: 300;
+    padding-bottom: 20px;
+    font-size:1.2em;
+    padding: 20px 0 20px 0;
+}
