@@ -28,11 +28,11 @@ function Content (){
                                 <img className="img-fluid" src={ Pelador } alt="Fybeca"/>
                             </div>
                             <div className="col-12 col-lg-6 py-5 px-4">
-                                <h2 className="titular">
+                                <h2 className="titular mb-4">
                                     PELADOR
                                 </h2>
                                 <img className="img-fluid" src={ Pelador1 } alt="Fybeca"/>
-                                <p className="descripcion">
+                                <p className="descripcion mb-4">
                                     La utilidad de este cuchillo es de pelar, tornear y limpiar productos.
                                 </p>
                                 <h3 className="premios">
@@ -47,11 +47,11 @@ function Content (){
                     <div className="container-fluid bg-light px-0">
                         <div className="row d-flex flex-column-reverse flex-lg-row text-center align-items-center g-0">
                         <div className="col-12 col-lg-6 py-5 px-4">
-                                <h2 className="titular">
+                                <h2 className="titular mb-4">
                                     MULTIUSOS
                                 </h2>
                                 <img className="img-fluid" src={ Multiusos1 } alt="Fybeca"/>
-                                <p className="descripcion">
+                                <p className="descripcion mb-4">
                                 Cuchillo para pelar o hacer cortes básicos, se puede usar para cualquier tipo de alimento.
                                 </p>
                                 <h3 className="premios">
@@ -72,11 +72,11 @@ function Content (){
                                 <img className="img-fluid" src={ Chef } alt="Fybeca"/>
                             </div>
                             <div className="col-12 col-lg-6 py-5 px-4">
-                                <h2 className="titular">
+                                <h2 className="titular mb-4">
                                     CHEF
                                 </h2>
                                 <img className="img-fluid" src={ Chef1 } alt="Fybeca"/>
-                                <p className="descripcion">
+                                <p className="descripcion mb-4">
                                     El cuchillo de chef es utilizado para cortar, picar o rebanar todo tipo de carnes, vegetales, aves y pescados.
                                 </p>
                                 <h3 className="premios">
@@ -91,11 +91,11 @@ function Content (){
                     <div className="container-fluid bg-light px-0">
                         <div className="row d-flex flex-column-reverse flex-lg-row text-center align-items-center g-0">
                         <div className="col-12 col-lg-6 py-5 px-4">
-                                <h2 className="titular">
+                                <h2 className="titular mb-4">
                                     SANTOKU
                                 </h2>
                                 <img className="img-fluid" src={ Santoku1 } alt="Fybeca"/>
-                                <p className="descripcion">
+                                <p className="descripcion mb-4">
                                 Cuchillo para carne, pescado y vegetales. Diseño japonés de hoja alveolada que ayuda a que los alimentos no queden adheridos.
                                 </p>
                                 <h3 className="premios">
@@ -116,11 +116,11 @@ function Content (){
                                 <img className="img-fluid" src={ Panadero } alt="Fybeca"/>
                             </div>
                             <div className="col-12 col-lg-6 py-5 px-4">
-                                <h2 className="titular">
+                                <h2 className="titular mb-4">
                                     PANADERO
                                 </h2>
                                 <img className="img-fluid" src={ Panadero1 } alt="Fybeca"/>
-                                <p className="descripcion">
+                                <p className="descripcion mb-4">
                                 Cuchillo dentado diseñado para un corte ágil y preciso, sin afectar al pan.
                                 </p>
                                 <h3 className="premios">
@@ -135,11 +135,11 @@ function Content (){
                     <div className="container-fluid bg-light px-0">
                         <div className="row d-flex flex-column-reverse flex-lg-row text-center align-items-center g-0">
                         <div className="col-12 col-lg-6 py-5 px-4">
-                                <h2 className="titular">
+                                <h2 className="titular mb-4">
                                     TACOMA
                                 </h2>
                                 <img className="img-fluid" src={ Tacoma1 } alt="Fybeca"/>
-                                <p className="descripcion">
+                                <p className="descripcion mb-4">
                                 Ideal para guardar tus cuchillos de forma segura y para que siempre los tengas a mano.
                                 </p>
                                 <h3 className="premios">
@@ -160,11 +160,11 @@ function Content (){
                                 <img className="img-fluid" src={ Tabla } alt="Fybeca"/>
                             </div>
                             <div className="col-12 col-lg-6 py-5 px-4">
-                                <h2 className="titular">
+                                <h2 className="titular mb-4">
                                     TABLA
                                 </h2>
                                 <img className="img-fluid" src={ Tabla1 } alt="Fybeca"/>
-                                <p className="descripcion">
+                                <p className="descripcion mb-4">
                                 Esta tabla de cortar con formato alargado es útil para realizar los cortes de carnes, vegetales y frutas.
                                 </p>
                                 <h3 className="premios">
@@ -179,11 +179,11 @@ function Content (){
                     <div className="container-fluid bg-light px-0">
                         <div className="row d-flex flex-column-reverse flex-lg-row text-center align-items-center g-0">
                         <div className="col-12 col-lg-6 py-5 px-4">
-                                <h2 className="titular">
+                                <h2 className="titular mb-4">
                                     AFILADOR
                                 </h2>
                                 <img className="img-fluid" src={ Afilador1 } alt="Fybeca"/>
-                                <p className="descripcion">
+                                <p className="descripcion mb-4">
                                 Mantén tus cuchillos en perfecto estado con este afilador, una herramienta muy útil con la que conseguirás un uso más seguro de los cuchillos, menos esfuerzo al utilizarlos y cortes mucho más precisos.
                                 </p>
                                 <h3 className="premios">

@@ -8,7 +8,7 @@ class Header extends React.Component {
             <div>
                 <nav className="navbar navbar-expand-lg navbar-dark py-1" style={{backgroundColor:`rgb(26 59 100)`}}>
 
-                    <div className="container">
+                    <div className="container px-3">
 
                         <Link className="navbar-brand mx-auto1" to="/">
                             <img src={Logo} alt="Fybeca" className="d-inline-block align-text-top" width="120" height="42"/>
@@ -18,15 +18,15 @@ class Header extends React.Component {
                         </button>
 
                         <div className="collapse navbar-collapse" id="navbarText">
-                            <ul className="navbar-nav me-auto mb-2 mb-lg-0">
+                            <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
                                 <li className="nav-item">
-                                    <Link className="nav-link" activeClassName="active" to="/">Inicio</Link>
+                                    <Link className="nav-link" exact to="/">Inicio</Link>
                                 </li>
                                 <li className="nav-item">
-                                    <Link className="nav-link" activeClassName="active" to="terminos">Términos</Link>
+                                    <Link className="nav-link" to="terminos">Términos</Link>
                                 </li> 
                                 <li className="nav-item">
-                                    <Link className="nav-link" activeClassName="active" to="registros">Registros</Link>
+                                    <Link className="nav-link" to="registros">Registros</Link>
                                 </li>
                             </ul>
                         </div>
